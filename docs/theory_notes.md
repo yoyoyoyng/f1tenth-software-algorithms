@@ -1,6 +1,3 @@
-# Theory Notes
-
-이 문서는 업로드한 F1TENTH 강의 자료를 참고하여 각 구현 알고리즘의 이론적 배경을 포트폴리오용으로 정리한 것입니다.
 
 ## 1. Wall Following - Feedback Control & PID
 
