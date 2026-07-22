@@ -330,7 +330,3 @@ f1tenth_software_algorithms_portfolio/
 - `[F1Tenth] L06 Motion Planning.pdf`
 
 ---
-
-## Notes
-
-본 저장소는 포트폴리오용으로 정리된 버전입니다. 원본 실습 환경의 ROS 2 package 구조, launch file, waypoint/map 파일은 실행 환경에 따라 달라질 수 있으므로, 실제 실행 시에는 각 프로젝트 README와 코드 상단의 parameter block을 확인해야 합니다.
