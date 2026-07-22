@@ -140,10 +140,6 @@ Pure Pursuit는 waypoint를 따라 차량을 주행시키는 geometric path trac
   <img src="projects/pure-pursuit/media/pure_pursuit_demo.gif" width="600" alt="Pure Pursuit Demo">
 </a>
 
-<p>
-  <img src="projects/pure-pursuit/media/pure_pursuit_result_1.png" width="290" alt="Pure Pursuit Result 1">
-  <img src="projects/pure-pursuit/media/pure_pursuit_result_2.png" width="290" alt="Pure Pursuit Result 2">
-</p>
 
 ### Theory Background
 
@@ -201,11 +197,6 @@ RRT* Local Planning은 LiDAR 기반 local occupancy grid 위에서 장애물을 
 <a href="projects/rrt-star/media/rrt_star_demo.mp4">
   <img src="projects/rrt-star/media/rrt_star_demo.gif" width="600" alt="RRT Star Demo">
 </a>
-
-<p>
-  <img src="projects/rrt-star/media/rrt_star_result_1.png" width="290" alt="RRT Star Result 1">
-  <img src="projects/rrt-star/media/rrt_star_result_2.png" width="290" alt="RRT Star Result 2">
-</p>
 
 ### Theory Background
 
